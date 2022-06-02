@@ -10,12 +10,12 @@ body {
   background-color: rgb(255, 255, 255);
 }
 
-h1 {
+/* h1 {
   padding: 50px 0px;
   font-size: 45px;
   text-align: center;
   color: rgb(54, 56, 55);
-}
+} */
 
 :active,
 :hover,
